@@ -1,11 +1,14 @@
-Projeto simples de uma tela de login feita com HTML, CSS e JavaScript.
+# Validador de E-mail
 
-## Funcionalidades
+Projeto simples em HTML, CSS e JavaScript para validação de e-mails no front-end.
 
-- Validação de email.
+##  Funcionalidade
 
-## Linguagens usadas
+- Validação de e-mail com expressão regular
+- Mensagens de erro e sucesso no envio
+
+##  Tecnologias usadas
 
 - HTML5
 - CSS3
-- JavaScript puro
+- JavaScript
